@@ -12,6 +12,11 @@ Start daily counter:
 ![image](https://github.com/NunoSources/DailyWater/assets/98571427/a553a3bb-1142-4c7e-a76a-8c16691088bd)
 
 
+Windows notification:
+
+![image](https://github.com/NunoSources/DailyWater/assets/98571427/9f94c154-23f6-4223-8a93-ef7242a1eeb7)
+
+
 Daily water consumed:
 
 ![image](https://github.com/NunoSources/DailyWater/assets/98571427/8bf41d14-c896-47dd-924e-884a03941206)
