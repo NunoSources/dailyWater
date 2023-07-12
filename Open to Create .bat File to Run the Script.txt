@@ -1,0 +1,21 @@
+@echo off
+"Path where your Python exe is stored\python.exe" "Path where your Python script is stored\daily_water.py"
+pause
+
+
+-----------------------------
+DELETE THIS:
+"Path where your Python exe is stored\python.exe":
+Here is an example where a Python exe is located: "C:\Users\Ron\AppData\Local\Programs\Python\Python39\python.exe"
+
+"Path where your Python script is stored\daily_water.py"
+And here is an example where a Python script is located:
+"C:\Users\Ron\Desktop\Test\daily_water.py"
+
+Save the Notepad with a '.bat' extension. For example, let’s save the Notepad as daily_water.bat
+
+A new batch file, called "daily_water.bat" will be created at your specified location.
+
+
+Finally, double-click on the batch file in order to run the Python script.
+-----------------------------
