@@ -1,4 +1,4 @@
-# DailyWater
+# <p align="center"> DailyWater </p>
 
 Program to remind you to drink water with Windows notifications every chosen minutes.
 
