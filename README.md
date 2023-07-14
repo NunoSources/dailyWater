@@ -1,6 +1,6 @@
 # <p align="center"> DailyWater⏰🥤 </p>
 
-#### <p align="center"> Program to remind you to drink water with Windows notifications every chosen minutes. </p>
+#### <p align="center"> Program to remind you to drink water with Windows notifications every chosen minutes </p>
 
 ### <p align="center"> Windows notification </p>
 ------------------
