@@ -104,7 +104,7 @@ if len(amount) == 0:
 
 with open(log, "a") as file:
     if f"Water consumed {datetime.now().strftime('%A')} {today}:\n" not in lines:
-        if "liters" not in lines[-2]: #if not yet, update to daily log, the amount of water consumed yesterday
+        if len(lines) < 2 or "liters" not in lines[-2]: #if not yet, update to daily log, the amount of water consumed yesterday
             print("~-" * 18, end = "~\n")
             print("Updating yesterday's daily record...")
             print("~-" * 18, end = "~\n")
