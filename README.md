@@ -1,6 +1,12 @@
-# <p align="center"> dailyWater⏰🥤 </p>
+# dailyWater⏰🥤 
 
-#### <p align="center"> Program to remind you to drink water with Windows notifications every chosen minutes </p>
+A program to remind the user to drink water with Windows notifications every chosen minutes
+
+## 📜 About
+
+Daily Water is a software program developed for the Windows Operating System, designed to alert the user to drink water regularly, according to a time interval determined by the user. The program also records and stores the current amount of water consumed in a designated text file.
+
+## 📷 Gallery
 
 ### <p align="center"> Windows notification </p>
 ------------------
